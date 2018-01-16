@@ -27,11 +27,11 @@
 				<key>bundle-identifier</key>
 				<string>com.bitech.zhangjiang.inhouse</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.2.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>张江高科OA</string>
+				<string>ZJGK</string>
 			</dict>
 		</dict>
 	</array>
